@@ -3,3 +3,6 @@ langchain
 google-generativeai
 numpy
 pandas
+dotenv-python
+chatbot
+
